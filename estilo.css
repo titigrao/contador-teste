@@ -1,3 +1,11 @@
+:root{
+    --cor-de-fundo: #B658FF;
+    --cor-do-texo-padrão: #FFFFFF;
+    --cor-do-texto-diferente: #00E0FF;
+}
+
+
+
 .titulo{
     font-size: 300%;
 }
