@@ -5,12 +5,15 @@
 }
 
 body{
+
+}
+
+.conteudo-principal{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-
 
 .titulo{
     font-size: 500%;
