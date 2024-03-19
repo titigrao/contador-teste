@@ -9,11 +9,14 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
 }
 
 
 .titulo{
+    font-size: 500%;
+}
+
+.subtitle{
     font-size: 300%;
 }
 
