@@ -4,6 +4,9 @@
     --cor-do-texto-diferente: #00E0FF;
 }
 
+body{
+    justify-content: center;
+}
 
 
 .titulo{
@@ -12,7 +15,4 @@
 
 .imagem{
     size: 1000%;
-}
-.principal-botao{
-    justify-content: center;
 }
