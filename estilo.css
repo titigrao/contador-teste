@@ -2,6 +2,7 @@
     --cor-de-fundo: #B658FF;
     --cor-do-texo-padrão: #FFFFFF;
     --cor-do-texto-diferente: #00E0FF;
+    --botao-ativo: #ffbf00;
 }
 
 body{
@@ -28,5 +29,14 @@ body{
 }
 
 .botao {
+    font-size: 10px;
     padding: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    border-bottom: 4px solid var(--botao-ativo);
+    border-left: 2px solid var(--botao-ativo);
+    border-right: 2px solid var(--botao-ativo);
+    border-top: none;
 }
