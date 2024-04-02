@@ -28,6 +28,10 @@ body{
     width: 25%;
 }
 
+.imagem-freddo{
+    width: 50%;
+}
+
 .botao{
     font-size: 10px;
     padding: 1em;
