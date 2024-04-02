@@ -26,3 +26,7 @@ body{
 .imagem-begetto{
     width: 25%;
 }
+
+.botao {
+    padding: 1em;
+}
