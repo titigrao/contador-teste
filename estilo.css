@@ -15,6 +15,13 @@ body {
     font-family: 'Chakra Petch', sans-serif;
 }
 
+.img-1{
+    width: 50px;
+}
+
+.img-2{
+    width: 50px;
+}
 
 .conteudo-principal {
     display: flex;
