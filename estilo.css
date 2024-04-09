@@ -16,11 +16,12 @@ body {
 }
 
 .img-1{
-    width: 50px;
+    justify-content: center;
+    width: 50%;
 }
 
 .img-2{
-    width: 50px;
+    width: 50%;
 }
 
 .conteudo-principal {
