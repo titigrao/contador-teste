@@ -29,7 +29,7 @@ body{
 }
 
 .imagem-freddo{
-    width: 50%;
+    width: 25%;
 }
 
 .botao{
@@ -56,5 +56,8 @@ body{
 @media screen and (min-width: 768px;){
     .botoes {
         display: flex;
+    }
+    .botao:first-child{
+        border-radius: 40px 0 0 0;
     }
 }
