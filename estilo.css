@@ -29,6 +29,10 @@ body {
     width: 50%;
 }
 
+.div-img-2{
+    text-align: center;
+}
+
 .conteudo-principal {
     display: flex;
     flex-direction: column;
