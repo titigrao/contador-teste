@@ -70,6 +70,12 @@ body {
     border-bottom: 4px solid var(--amarelo);
 }
 
+.abas-textos{
+    background: var(--texto-fundo);
+    padding: 40px 0;
+    border-radius: 0 0 40px 40px;
+}
+
 @media screen and (min-width:768px){
     .botoes{
         display: flex;
@@ -82,8 +88,3 @@ body {
     }
 }
 
-.abas-textos{
-    background: var(--texto-fundo);
-    padding: 40px 40px;
-    border-radius: 0 0 40px 40px;
-}
