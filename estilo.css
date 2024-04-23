@@ -81,7 +81,11 @@ body {
     font-size: 20px;
 }
 
-.aba-conteudo-titulo-secundário
+.aba-conteudo-titulo-secundário{
+    color: var(--amarelo)
+}
+
+
 @media screen and (min-width:768px){
     .botoes{
         display: flex;
