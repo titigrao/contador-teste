@@ -18,11 +18,8 @@ body {
 .img-1{
     display: flex;
     justify-content: center;
-    width: 50%;
-}
-
-.div-img-1{
     text-align: center;
+    width: 50%;
 }
 
 .img-2{
