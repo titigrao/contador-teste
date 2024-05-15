@@ -47,6 +47,6 @@ function calculaTempo(tempoObjetivo){
   horas %= 24;
 
 
- return dias + "d" + horas + "h" + minutos + "m" + segundos + "s" ;
+ return dias + "d " + horas + "h " + minutos + "m " + segundos + "s " ;
 }
 
