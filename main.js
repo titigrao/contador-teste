@@ -30,6 +30,7 @@ function atualizaCronometro(){
   }
 }
 
+atualizaCronometro();
 
 contadores[0].textContent = calculaTempo(tempoObjetivo1)
 
